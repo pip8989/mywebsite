@@ -1,0 +1,183 @@
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,
+html {
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+}
+
+/* Grid Layout */
+.grid-container {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    grid-template-columns: 1fr;
+    min-height: 100vh;
+
+}
+
+/* Header */
+header {
+    background-color: grey;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+
+    gap: 20px;
+
+}
+
+.nav-list li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+/* Main (Images Grid) 
+grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+*/
+main {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    padding: 10px;
+    background-color: #f4f4f4;
+    width: 100vw;
+    /* Make sure main takes up full width */
+    box-sizing: border-box;
+}
+
+
+.image-card {
+    display: block;
+    text-decoration: none;
+    color: black;
+
+    width: 100%;
+
+}
+
+.image-card article {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform 0.2s ease;
+}
+
+.image-card article:hover {
+    transform: scale(1.02);
+}
+
+.image-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.article-text {
+    padding: 10px;
+}
+
+.article-text h2 {
+    font-size: 1rem;
+    color: #555;
+}
+
+.article-text h3 {
+    font-size: 1.2rem;
+    margin-top: 5px;
+}
+
+/* Footer */
+footer {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+header>div>h1 {
+    font-size: .75rem;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    color: black;
+
+
+}
+
+
+
+#lightbox-image {
+    max-width: 100vw;
+    max-height: 100vh;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    padding-left: 1em;
+    padding-right: 1em;
+
+
+
+}
+
+#close-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 20px;
+    color: white;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s;
+    margin-bottom: 20px;
+    /* Spacing above the image */
+
+}
+
+#close-btn:hover {
+    transform: scale(1.2);
+}
+
+#about {
+    padding: 1em;
+}
+
+#about>p {
+    padding-bottom: 1em;
+}
+
+address {
+    padding: 1em;
+}
