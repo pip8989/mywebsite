@@ -16,5 +16,11 @@ export const artData = [{
     src: 'images/saltlakethumbnail.jpg',
     medium: 'Oil on canvas 12x12 inch',
     alt: 'saltlake'
+},
+{
+    title: 'Blue Days',
+    src: 'images/bluedaysthumbnail.jpg',
+    medium: 'Oil on canvas 8x10 inch',
+    alt: 'bluedays'
 }
 ]

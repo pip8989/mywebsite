@@ -11,7 +11,8 @@ const closeBtn = document.getElementById('close-btn');
 const fullSizeImages = {
     'fallair': 'images/fallair.jpg',
     'greenlands': 'images/greenlands.jpg',
-    'saltlake': 'images/saltlake.jpg'
+    'saltlake': 'images/saltlake.jpg',
+    'bluedays': 'images/bluedays.jpg'
 };
 
 let html = ``
