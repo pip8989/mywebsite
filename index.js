@@ -13,7 +13,8 @@ const fullSizeImages = {
     'greenlands': 'images/greenlands.jpg',
     'saltlake': 'images/saltlake.jpg',
     'bluedays': 'images/bluedays.jpg',
-    'stormatdusk': 'images/stormatdusk.jpg'
+    'stormatdusk': 'images/stormatdusk.jpg',
+    'bluedaycomp2': 'images/bluedaycomp2.jpg'
 };
 
 let html = ``
