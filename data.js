@@ -40,6 +40,12 @@ export const artData = [{
     src: 'images/eveningthumbnail.jpg',
     medium: 'Oil on canvas 8x10 inch $400',
     alt: 'evening'
+},
+{
+    title: 'Greenlands composition 2',
+    src: 'images/greenlandscomp2thumbnail.jpg',
+    medium: 'Oil on canvas 8x10 inch $400',
+    alt: 'evening'
 }
 
 ]
