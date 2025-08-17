@@ -17,7 +17,8 @@ const fullSizeImages = {
     'bluedaycomp2': 'images/bluedaycomp2.jpg',
     'peacelake': 'images/peacelake.jpg',
     'evening': 'images/evening.jpg',
-    'greenlandscomp2': 'images/greenlandscomp2.jpg'
+    'greenlandscomp2': 'images/greenlandscomp2.jpg',
+    'bluesunset': 'images/bluesunset.jpg'
 };
 
 let html = ``
