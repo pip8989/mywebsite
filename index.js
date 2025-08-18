@@ -18,7 +18,7 @@ const fullSizeImages = {
     'peacelake': 'images/peacelake.jpg',
     'evening': 'images/evening.jpg',
     'greenlandscomp2': 'images/greenlandscomp2.jpg',
-    'bluesunset': 'images/bluesunset.jpg'
+
 };
 
 let html = ``
