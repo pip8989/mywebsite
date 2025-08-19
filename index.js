@@ -18,7 +18,8 @@ const fullSizeImages = {
     'peacelake': 'images/peacelake.jpg',
     'evening': 'images/evening.jpg',
     'greenlandscomp2': 'images/greenlandscomp2.jpg',
-    'stormcoming': 'images/stormcoming.jpg'
+    'stormcoming': 'images/stormcoming.jpg',
+    'clearsky': 'images/clearsky.jpg'
 
 };
 
