@@ -14,13 +14,13 @@ const fullSizeImages = {
     'saltlake': 'images/saltlake.jpg',
     'bluedays': 'images/bluedays.jpg',
     'stormatdusk': 'images/stormatdusk.jpg',
-    'bluedaycomp2': 'images/bluedaycomp2.jpg',
     'peacelake': 'images/peacelake.jpg',
     'evening': 'images/evening.jpg',
     'greenlandscomp2': 'images/greenlandscomp2.jpg',
     'stormcoming': 'images/stormcoming.jpg',
     'clearsky1': 'images/clearsky1.jpg',
-    'clearskycomp2': 'images/clearskycomp2.jpg'
+    'clearskycomp2': 'images/clearskycomp2.jpg',
+    'bluedayscomp2': 'images/bluedayscomp2.jpg'
 };
 
 let html = ``

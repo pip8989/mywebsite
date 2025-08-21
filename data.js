@@ -24,12 +24,6 @@ export const artData = [{
     alt: 'bluedays'
 },
 {
-    title: 'Blue Days composition 2',
-    src: 'images/bluedaycomp2thumbnail.jpg',
-    medium: 'Oil on board 8x10 inch $400',
-    alt: 'bluedaycomp2'
-},
-{
     title: 'Peace Lake',
     src: 'images/peacelakethumbnail.jpg',
     medium: 'Oil on board 8x10 inch $400',
@@ -64,6 +58,12 @@ export const artData = [{
     src: 'images/clearskycomp2thumbnail.jpg',
     medium: 'Oil on board 8x10 inch $400',
     alt: 'clearskycomp2'
+},
+{
+    title: 'Blue Days Composition 2',
+    src: 'images/bluedayscomp2thumbnail.jpg',
+    medium: 'Oil on board 8x10 inch $400',
+    alt: 'bluedayscomp2'
 }
 
 ]
