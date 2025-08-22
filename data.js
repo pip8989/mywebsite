@@ -23,12 +23,7 @@ export const artData = [{
     medium: 'Oil on board 8x10 inch $400',
     alt: 'bluedays'
 },
-{
-    title: 'Peace Lake',
-    src: 'images/peacelakethumbnail.jpg',
-    medium: 'Oil on board 8x10 inch $400',
-    alt: 'peacelake'
-},
+
 {
     title: 'Evening',
     src: 'images/eveningthumbnail.jpg',

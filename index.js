@@ -14,7 +14,7 @@ const fullSizeImages = {
     'saltlake': 'images/saltlake.jpg',
     'bluedays': 'images/bluedays.jpg',
     'stormatdusk': 'images/stormatdusk.jpg',
-    'peacelake': 'images/peacelake.jpg',
+
     'evening': 'images/evening.jpg',
     'greenlandscomp2': 'images/greenlandscomp2.jpg',
     'stormcoming': 'images/stormcoming.jpg',
