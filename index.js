@@ -20,7 +20,8 @@ const fullSizeImages = {
     'stormcoming': 'images/stormcoming.jpg',
     'clearsky1': 'images/clearsky1.jpg',
     'bluedayscomp2': 'images/bluedayscomp2.jpg',
-    'clearskycomp2': 'images/clearskycomp2.jpg'
+    'clearskycomp2': 'images/clearskycomp2.jpg',
+    'coolday': 'images/coolday.jpg'
 };
 
 let html = ``

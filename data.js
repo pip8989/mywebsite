@@ -64,6 +64,12 @@ export const artData = [{
     src: 'images/clearskycomp2thumbnail.jpg',
     medium: 'Oil on board 8x10 inch $400',
     alt: 'clearskycomp2'
+},
+{
+    title: 'Cool Day',
+    src: 'images/cooldaythumbnail.jpg',
+    medium: 'Oil on board 8x10 inch $400',
+    alt: 'coolday'
 }
 
 ]
