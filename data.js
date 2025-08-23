@@ -24,12 +24,7 @@ export const artData = [{
     alt: 'bluedays'
 },
 
-{
-    title: 'Evening',
-    src: 'images/eveningthumbnail.jpg',
-    medium: 'Oil on board 8x10 inch $400',
-    alt: 'evening'
-},
+
 {
     title: 'Greenlands composition 2',
     src: 'images/greenlandscomp2thumbnail.jpg',
