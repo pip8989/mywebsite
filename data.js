@@ -62,10 +62,10 @@ export const artData = [{
     alt: 'coolday'
 },
 {
-    title: 'Mountains Breath',
-    src: 'images/mountainsbreaththumbnail.jpg',
+    title: 'Mountains',
+    src: 'images/mountainthumbnail.jpg',
     medium: 'Oil on board 8x10 inch $400',
-    alt: 'mountainsbreath'
+    alt: 'mountain'
 }
 
 ]
