@@ -61,6 +61,13 @@ export const artData = [{
     src: 'images/mountainthumbnail.jpg',
     medium: 'Oil on board 8x10 inch $400',
     alt: 'mountain'
+},
+
+{
+    title: 'Lush',
+    src: 'images/lushthumbnail.jpg',
+    medium: 'Oil on board 8x10 inch $400',
+    alt: 'lush'
 }
 
 ]
