@@ -23,7 +23,8 @@ const fullSizeImages = {
     'clearskycomp2': 'images/clearskycomp2.jpg',
 
     'mountain': 'images/mountain.jpg',
-    'lush': 'images/lush.jpg'
+    'lush': 'images/lush.jpg',
+    'bluesky': 'images/bluesky.jpg'
 };
 
 let html = ``
