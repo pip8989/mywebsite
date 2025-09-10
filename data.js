@@ -8,7 +8,7 @@ export const artData = [
     {
         title: 'Fall Air',
         src: 'images/fallairthumbnail.jpg',
-        medium: 'SOLD Oil on board 8x10 inch $400',
+        medium: '🔴 Oil on board 8x10 inch $400',
         alt: 'fallair'
     },
 
